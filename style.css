@@ -1,0 +1,6 @@
+body { padding-top: 70px; }
+
+input, select, .btn {
+      margin-left: 10px;
+      margin-right: 10px;
+    }
